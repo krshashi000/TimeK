@@ -34,7 +34,7 @@ To install TimeK on your Android device, you will need to build the APK from the
 
 Clone this repository to your local machine:
 
-git clone https://github.com/YourUsername/TimeK.git
+git clone [https://github.com/YourUsername/TimeK.git](https://github.com/YourUsername/TimeK.git)
 
 
 Open the project in Android Studio.

@@ -28,15 +28,6 @@ Note: This project is a heavily customized fork, originally based on the LifeDot
 
 🚀 Installation & Setup
 
-To install TimeK on your Android device, you will need to build the APK from the source code.
-
-1. Build the APK (Android Studio)
-
-Clone this repository to your local machine:
-
-git clone [https://github.com/YourUsername/TimeK.git](https://github.com/YourUsername/TimeK.git)
-
-
 Open the project in Android Studio.
 
 Let Gradle sync and download dependencies.
